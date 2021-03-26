@@ -21,20 +21,17 @@
 
 ## [WEEK 2](https://github.com/HarishShan23/daa_codes/tree/main/Week%202)<span id="w2"></span>
 
-[Q1](https://github.com/HarishShan23/daa_codes/blob/main/Week%202/find_pairs.cpp) 
+[Q1](https://github.com/HarishShan23/daa_codes/blob/main/Week%202/find_pairs.cpp) Find pairs of elements in the array whose sum is equal to p.
 
-Input: Integer Array A and an integer p  
-Question: Does there exist q and r in A such that p=q+r
+Input: Integer Array A and an integer p.
 
-Propose three different logic and implement all three. Use system time function and compare system time for each logic. Test drive on at least 20 different inputs and plot the graph. Is it possible to call 'excel' from C/C++ program to plot the graph. If yes, make an attempt. Identify which logic is efficient through system time.
+[Q2](https://github.com/HarishShan23/daa_codes/blob/main/Week%202/find_num.cpp) Identify the position of the first '-1'
 
-[Q2](https://github.com/HarishShan23/daa_codes/blob/main/Week%202/find_num.cpp) 
+Input: Accept a large sized integer array from the user with the following constraints  
+    
+    (i) user should not enter the size of the array  
 
-Input: Accept a large sized integer array from the user with the following constraints  (i) user should not enter the size of the array  (ii) user should not enter -1 as it is used delimiter. User enters until some time after which the user must enter -1 only and no other integer, the user can enter -1 any number of times.
-
-Question:  Identify the position of the first '-1'
-
-Propose three different logic and implement all three. Like the above, compare system time to pick the best. As a programmer, you may declare an array of size, say, 10000. ( if the system is not accepting, then make it 5000). You should not run a forloop for 10000 or 5000. The size is given only for modelling purposes, in theoretical sense, the size is unknown to the user.
+    (ii) user should not enter -1 as it is used delimiter. User enters until some time after which the user must enter -1 only and no other integer, the user can enter -1 any number of times.
 
 [Q3](https://github.com/HarishShan23/daa_codes/blob/main/Week%202/print_pattern.cpp) Print the following five patterns. 
 
