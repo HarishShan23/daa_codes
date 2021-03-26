@@ -99,3 +99,4 @@ Output:
 [Q5](https://github.com/HarishShan23/daa_codes/blob/main/Week%205/merge_array.cpp) Implement 3 different logic to Merge two sorted arrays.
 
 [Q6](https://github.com/HarishShan23/daa_codes/blob/main/Week%205/maxheap_findmin.cpp) Given a max-heap, find the minimum and second minimum elements.
+
