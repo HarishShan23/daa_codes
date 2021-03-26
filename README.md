@@ -74,9 +74,9 @@ Output:
 
 [Q2](https://github.com/HarishShan23/daa_codes/blob/main/Week%203/find_duplicates.cpp) Given an integer array, find duplicates in the array.
 
-[Q4](https://github.com/HarishShan23/daa_codes/blob/main/Week%203/find_subsets_sum_k.cpp) Given an integer array, find if there exists a subset whose sum is k.
+[Q3](https://github.com/HarishShan23/daa_codes/blob/main/Week%203/subset_sum.cpp) Given an integer array, find if there exists a subset whose sum is k.
 
-[Q4](https://github.com/HarishShan23/daa_codes/blob/main/Week%203/subset_sum.cpp) Given an integer array, find all the subsets whose sum is k. 
+[Q4](https://github.com/HarishShan23/daa_codes/blob/main/Week%203/find_subsets_sum_k.cpp) Given an integer array, find all the subsets whose sum is k. 
 
 ## [WEEK 4](https://github.com/HarishShan23/daa_codes/tree/main/Week%204)<span id="w4"></span>
 
