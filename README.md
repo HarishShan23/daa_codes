@@ -21,17 +21,9 @@
 
 ## [WEEK 2](https://github.com/HarishShan23/daa_codes/tree/main/Week%202)<span id="w2"></span>
 
-[Q1](https://github.com/HarishShan23/daa_codes/blob/main/Week%202/find_pairs.cpp) Find pairs of elements in the array whose sum is equal to p.
+[Q1](https://github.com/HarishShan23/daa_codes/blob/main/Week%202/find_pairs.cpp) Given an integer array and a number x, find pairs of elements in the array whose sum is equal to a x.
 
-Input: Integer Array A and an integer p.
-
-[Q2](https://github.com/HarishShan23/daa_codes/blob/main/Week%202/find_num.cpp) Identify the position of the first '-1'
-
-Input: Accept a large sized integer array from the user with the following constraints  
-    
-    (i) user should not enter the size of the array  
-
-    (ii) user should not enter -1 as it is used delimiter. User enters until some time after which the user must enter -1 only and no other integer, the user can enter -1 any number of times.
+[Q2](https://github.com/HarishShan23/daa_codes/blob/main/Week%202/find_num.cpp) Given an integer array, identify the position of the first '-1'. 
 
 [Q3](https://github.com/HarishShan23/daa_codes/blob/main/Week%202/print_pattern.cpp) Print the following five patterns. 
 
@@ -80,7 +72,7 @@ Output:
 
 [Q1](https://github.com/HarishShan23/daa_codes/blob/main/Week%203/stable_sort.cpp) Given a ternary array (filled with 0,1,2) of size n. Arrange them in non-decreasing order preserving stability.
 
-[Q2](https://github.com/HarishShan23/daa_codes/blob/main/Week%203/find_duplicates.cpp) Given an integer array, find duplicates in the array. Present two different logic.
+[Q2](https://github.com/HarishShan23/daa_codes/blob/main/Week%203/find_duplicates.cpp) Given an integer array, find duplicates in the array.
 
 [Q4](https://github.com/HarishShan23/daa_codes/blob/main/Week%203/find_subsets_sum_k.cpp) Given an integer array, find if there exists a subset whose sum is k.
 
