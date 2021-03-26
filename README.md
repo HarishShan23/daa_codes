@@ -21,14 +21,14 @@
 
 ## [WEEK 2](https://github.com/HarishShan23/daa_codes/tree/main/Week%202)<span id="w2"></span>
 
-[Q1](https://github.com/HarishShan23/daa_codes/blob/main/Week%201/find_max.cpp) 
+[Q1](https://github.com/HarishShan23/daa_codes/blob/main/Week%202/find_pairs.cpp) 
 
 Input: Integer Array A and an integer p  
 Question: Does there exist q and r in A such that p=q+r
 
 Propose three different logic and implement all three. Use system time function and compare system time for each logic. Test drive on at least 20 different inputs and plot the graph. Is it possible to call 'excel' from C/C++ program to plot the graph. If yes, make an attempt. Identify which logic is efficient through system time.
 
-[Q2](https://github.com/HarishShan23/daa_codes/blob/main/Week%201/neither_min_nor_max.cpp) 
+[Q2](https://github.com/HarishShan23/daa_codes/blob/main/Week%202/find_num.cpp) 
 
 Input: Accept a large sized integer array from the user with the following constraints  (i) user should not enter the size of the array  (ii) user should not enter -1 as it is used delimiter. User enters until some time after which the user must enter -1 only and no other integer, the user can enter -1 any number of times.
 
@@ -36,7 +36,7 @@ Question:  Identify the position of the first '-1'
 
 Propose three different logic and implement all three. Like the above, compare system time to pick the best. As a programmer, you may declare an array of size, say, 10000. ( if the system is not accepting, then make it 5000). You should not run a forloop for 10000 or 5000. The size is given only for modelling purposes, in theoretical sense, the size is unknown to the user.
 
-[Q3](https://github.com/HarishShan23/daa_codes/blob/main/Week%201/prime_factors.cpp) Print the following five patterns. 
+[Q3](https://github.com/HarishShan23/daa_codes/blob/main/Week%202/print_pattern.cpp) Print the following five patterns. 
 
 ```text
 
@@ -81,6 +81,32 @@ Output:
 
 ## [WEEK 3](https://github.com/HarishShan23/daa_codes/tree/main/Week%203)<span id="w3"></span>
 
+[Q1](https://github.com/HarishShan23/daa_codes/blob/main/Week%203/stable_sort.cpp) Given a ternary array (filled with 0,1,2) of size n. Arrange them in non-decreasing order preserving stability.
+
+[Q2](https://github.com/HarishShan23/daa_codes/blob/main/Week%203/find_duplicates.cpp) Given an integer array, find duplicates in the array. Present two different logic.
+
+[Q4](https://github.com/HarishShan23/daa_codes/blob/main/Week%203/find_subsets_sum_k.cpp) Given an integer array, find if there exists a subset whose sum is k.
+
+[Q4](https://github.com/HarishShan23/daa_codes/blob/main/Week%203/subset_sum.cpp) Given an integer array, find all the subsets whose sum is k. 
+
 ## [WEEK 4](https://github.com/HarishShan23/daa_codes/tree/main/Week%204)<span id="w4"></span>
 
+[Q1](https://github.com/HarishShan23/daa_codes/blob/main/Week%204/find_max.cpp) Find maximum element in an array using 1-way, 2-way, 3-way and k-way divide and conquer approach. 
+
+[Q2](https://github.com/HarishShan23/daa_codes/blob/main/Week%204/count_negatives.cpp) Given an integer array, count the number of negative numbers in it using 2-way and 3-way divide and conquer approach.
+
+[Q3](https://github.com/HarishShan23/daa_codes/blob/main/Week%204/binarySearch_ternarySearch.cpp) Implement an Iterative and a Recursive algorithm for Binary Search and Ternary Search.
+
 ## [WEEK 5](https://github.com/HarishShan23/daa_codes/tree/main/Week%205)<span id="w5"></span>
+
+[Q1](https://github.com/HarishShan23/daa_codes/blob/main/Week%205/hybrid_merge_sort.cpp) Consider a large integer array of size at least 1000. Populate the array using rand() function. Use 2-way merge sort as part of divide phase and stop the recursion when the input size is less than or equal to 20. For all subproblems of size at most 20, sort the subproblem using Insertion sort, Selection sort, and Bubble sort.
+
+[Q2](https://github.com/HarishShan23/daa_codes/blob/main/Week%205/hybrid_merge_sort_3way.cpp) Consider a large integer array of size at least 1000. Populate the array using rand() function. Use 3-way merge sort as part of divide phase and stop the recursion when the input size is less than or equal to 20. For all subproblems of size at most 20, sort the subproblem using Insertion sort, Selection sort, and Bubble sort.
+
+[Q3](https://github.com/HarishShan23/daa_codes/blob/main/Week%205/dual_pivot_quicksort.cpp) Implement Dual Pivot Quicksort. 
+
+[Q4](https://github.com/HarishShan23/daa_codes/blob/main/Week%205/binary_insertion_sort.cpp) Implement Binary Insertion Sort. 
+
+[Q5](https://github.com/HarishShan23/daa_codes/blob/main/Week%205/merge_array.cpp) Implement 3 different logic to Merge two sorted arrays.
+
+[Q6](https://github.com/HarishShan23/daa_codes/blob/main/Week%205/maxheap_findmin.cpp) Given a max-heap, find the minimum and second minimum elements.
